@@ -25,3 +25,5 @@ Let :math:`\hat{y_i} = \hat{\beta}_0 + \hat{\beta}_1 x_i` be the prediction for 
 .. math::
 
   \text{RSS} = e_1^2 + \dots + e_n^2
+
+The least squares approach choose :math:`\hat{\beta}_0` and :math:`\hat{\beta}_1` to minimize the RSS.

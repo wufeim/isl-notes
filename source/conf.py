@@ -60,3 +60,8 @@ html_theme = 'default'
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+numfig = True
+math_numfig = True
+numfig_secnum_depth = 2
+math_eqref_format = 'Eq.{number}'
